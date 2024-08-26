@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Maggie, a software engineer, data scientist, and mathematician.
+Welcome to check my porfolio for my [projects]() and connect with me on [LinkedIn](https://www.linkedin.com/in/dqymaggie/)! ☺️ 
 
 🛠️ Tools
 - Software Engineering: Python, Java, C++, C
@@ -8,10 +9,6 @@ I'm Maggie, a software engineer, data scientist, and mathematician.
 - Database: Azure, AWS, Databricks, MongoDB
 - Front End: HTML, CSS, JavaScript
 - Other: Git, ThoughtSpot
-
-Welcome to check my porfolio for my projects and connect with me on LinkedIn!
-
-☺️
 
 
 <!--
