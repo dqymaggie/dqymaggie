@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Maggie, a software engineer, data scientist, and mathematician.
-Welcome to check my porfolio for my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/dqymaggie/)! <br /><br />
+Welcome to check my portfolio for my projects, my [personal webiste](https://dqymaggie.github.io), and connect with me on [LinkedIn](https://www.linkedin.com/in/dqymaggie/)! <br /><br />
 
 
 🛠️ Tools
