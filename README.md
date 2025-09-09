@@ -7,9 +7,9 @@ Welcome to check my portfolio for my projects, my [personal webiste](https://dqy
 🛠️ Tools
 - Software Engineering: Python, Java, C++, C
 - Data Analysis: SQL, R, MATLAB
-- Database: Azure, AWS, Databricks, MongoDB
+- Database: AWS, Databricks, MongoDB, Azure
 - Front End: HTML, CSS, JavaScript
-- Other: Git, ThoughtSpot
+- Other: Git, ThoughtSpot, Tableau
 
 
 <!--
